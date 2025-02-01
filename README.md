@@ -9,7 +9,7 @@
 
 2. Replace x with the name of the company and y with the position title that you are applying to, and then run the program. Apostrophes should be handled. Your text will be automatically copied to your clipboard. 
 
-3. Use Google Docs / Microsoft Word to paste the copied text into the document. I then save and export the file under the name "xvar.pdf" and save in the root directory where the programs and cover letter directory live. You can change the names as you see fit, it works fine for me using "xvar."
+3. Use your word processor to paste the copied text into the document. I then save and export the file under the name "xvar.pdf" and save in the root directory where the programs and cover letter directory live. You can change the names as you see fit, it works fine for me using "xvar."
 
 ## pdfMerger.py
 <img width="733" alt="Screenshot 2023-09-11 at 1 39 56 PM" src="https://github.com/dylmcgold/JobPrograms/assets/59912473/2259a929-c951-4b30-895b-814a535a3b34">
